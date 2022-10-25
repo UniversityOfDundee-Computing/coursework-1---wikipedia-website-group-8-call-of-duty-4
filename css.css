@@ -1,0 +1,25 @@
+body {
+    background-color: #96a888;
+    color: #000100;
+    font-family: 'Roboto Mono', serif;
+}
+
+.nav {
+    background-color: #6d744a;
+}
+
+#home {
+    background-image: url('/imgs/81KbazjNmxL._AC_SL1500_.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+}
+
+.main {
+    background-color: rgba(246, 252, 244, 0.5);
+}
+
+.btn {
+    border-color: #6d744a;
+    --btn-hover-color: var(#969696);
+}
