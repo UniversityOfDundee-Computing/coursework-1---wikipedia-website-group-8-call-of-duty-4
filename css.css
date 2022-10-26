@@ -1,7 +1,20 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
+
+@font-face {
+    font-family: headerFont;
+    src: url(headerFont.otf);
+}
+
+@font-face {
+    font-family: bodyFont;
+    src: url(bodyFont.ttf);
+}
+
 :root {
+    --bodyFont: bodyFont;
+    --headerFont: headerFont;
     --robotoMono: 'Roboto Mono', serif;
     --ptMono: 'PT Mono', serif;
     --mintCream: #f6fcf4;
@@ -14,11 +27,12 @@
 body {
     background-color: var(--laurelGreen);
     color: var(--black);
-    font-family: var(--robotoMono);
+    font-family: var(--bodyFont);
 }
 
 nav, .offcanvas {
     background-color: var(--darkOlivGreen);
+    font-family: var(--headerFont);
 }
 
 #home {
