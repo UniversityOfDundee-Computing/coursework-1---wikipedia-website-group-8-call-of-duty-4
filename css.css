@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
+@font-face {
+    font-family: headerFont;
+    src: url(headerFont.otf);
+}
+
 body {
     background-color: #96a888;
     color: #000100;
-    font-family: 'Roboto Mono', serif;
+    font-family: headerFont;
 }
 
 .nav {
