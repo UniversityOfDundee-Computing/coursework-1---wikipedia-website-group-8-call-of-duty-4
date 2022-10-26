@@ -14,7 +14,7 @@
 body {
     background-color: var(--laurelGreen);
     color: var(--black);
-    font-family: var(--font);
+    font-family: var(--robotoMono);
 }
 
 nav, .offcanvas {
