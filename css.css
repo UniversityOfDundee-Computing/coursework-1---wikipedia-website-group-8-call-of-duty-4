@@ -1,11 +1,22 @@
-body {
-    background-color: #96a888;
-    color: #000100;
-    font-family: 'Roboto Mono', serif;
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+
+:root {
+    --font: 'Roboto Mono', serif;
+    --mintCream: #f6fcf4;
+    --laurelGreen: #96a888;
+    --darkOlivGreen: #6d744a;
+    --pineTree: #252b1b;
+    --black: #000100;
 }
 
-.nav {
-    background-color: #6d744a;
+body {
+    background-color: var(--laurelGreen);
+    color: var(--black);
+    font-family: var(--font);
+}
+
+nav, .offcanvas {
+    background-color: var(--darkOlivGreen);
 }
 
 #home {
@@ -20,6 +31,6 @@ body {
 }
 
 .btn {
-    border-color: #6d744a;
+    border-color: var(--darkOlivGreen);
     --btn-hover-color: var(#969696);
 }
