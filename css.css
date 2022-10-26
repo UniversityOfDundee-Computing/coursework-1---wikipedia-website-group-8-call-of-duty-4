@@ -1,14 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 :root {
-    --font: 'Roboto Mono', serif;
+    --robotoMono: 'Roboto Mono', serif;
+    --ptMono: 'PT Mono', serif;
     --mintCream: #f6fcf4;
     --laurelGreen: #96a888;
     --darkOlivGreen: #6d744a;
     --pineTree: #252b1b;
     --black: #000100;
 }
-@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 body {
     background-color: var(--laurelGreen);
