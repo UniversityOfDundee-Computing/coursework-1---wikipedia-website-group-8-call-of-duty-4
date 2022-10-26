@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
 body {
     background-color: #96a888;
     color: #000100;
@@ -23,3 +25,22 @@ body {
     border-color: #6d744a;
     --btn-hover-color: var(#969696);
 }
+
+footer{
+    background-color: #6D744A;
+    padding-top: 0.1cm;
+    padding-bottom: 0.1cm;
+    font-family: 'PT Mono', monospace;
+}
+
+.socials {
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+a{
+    color:#000000;
+    text-decoration: none;
+} 
+
