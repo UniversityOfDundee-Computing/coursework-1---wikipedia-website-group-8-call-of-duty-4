@@ -56,6 +56,9 @@ footer{
     padding-top: 0.1cm;
     padding-bottom: 0.1cm;
     font-family: 'PT Mono', monospace;
+    position:relative;
+    width:100%;
+    bottom:0px;
 }
 
 .socials {
@@ -67,5 +70,20 @@ footer{
 a{
     color:#000000;
     text-decoration: none;
-} 
+}
 
+a:hover {
+    color: #f6fcf4;
+  }
+
+.links{
+    text-align: center;
+}
+
+.socials2{
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 35px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
