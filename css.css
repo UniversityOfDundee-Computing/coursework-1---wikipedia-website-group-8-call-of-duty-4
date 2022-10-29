@@ -55,10 +55,10 @@ footer{
     background-color: #6D744A;
     padding-top: 0.1cm;
     padding-bottom: 0.1cm;
-    font-family: 'PT Mono', monospace;
     position:relative;
     width:100%;
     bottom:0px;
+    font-family: var(--headerFont);
 }
 
 .socials {
