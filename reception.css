@@ -4,7 +4,6 @@
     background-size: 100%;
     background-attachment: scroll;
 }
-
 .starIcon{
     color: gold;
     padding-bottom: 10px;
@@ -17,11 +16,7 @@ section{
 
 .receptionBit{
     padding-top: 25px;
-    padding-bottom: 25px;
-}
-
-#sniperPic{
-    padding-top: 100px;
+    padding-bottom: 15px;
 }
 
 .review{
