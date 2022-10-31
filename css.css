@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500;700&family=Inconsolata:wght@300;400;500&family=PT+Mono&display=swap');
 
 
 @font-face {
@@ -73,7 +74,7 @@ a{
 }
 
 a:hover {
-    color: #f6fcf4;
+    color:rgb(254, 247, 237)
   }
 
 .links{

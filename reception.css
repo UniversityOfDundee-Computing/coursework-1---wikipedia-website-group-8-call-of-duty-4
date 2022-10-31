@@ -6,26 +6,33 @@
 }
 .starIcon{
     color: gold;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 section{
     padding-top: 25px;
     padding-bottom: 10px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
 }
 
 .receptionBit{
-    padding-top: 40px;
     padding-bottom: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
 }
 
 .receptionBit2{
-    padding-top: 20px;
-    margin-bottom: 1cm;
+    padding-top: 10px;
+    margin-bottom: 0.5cm;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
 }
 
 .receptionBit3{
     margin-bottom: 0.2cm;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
 }
 
 .review{
@@ -34,4 +41,20 @@ section{
 
 .smallreviews{
     padding-top: 1cm;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+    color:rgb(254, 247, 237)
+}
+
+.reviewhead{
+    color: black;
+}
+
+.table{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+    margin-top: 0.2cm;
 }
