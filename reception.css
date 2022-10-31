@@ -36,7 +36,7 @@ section{
 }
 
 .review{
-    margin-bottom: 2cm;
+    margin-top: 16cm;
 }
 
 .smallreviews{
@@ -57,4 +57,14 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Inconsolata', monospace;
     font-weight: 500;
     margin-top: 0.2cm;
+}
+
+.review2{
+    margin-top: -1.0cm;
+    margin-bottom: 1.9cm;
+}
+
+.review3{
+    margin-top: -1.0cm;
+    margin-bottom: 1.5cm;
 }
