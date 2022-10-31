@@ -1,0 +1,37 @@
+.topper{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.pushsquare.com%2F071942ecba724%2F1280x720.jpg&f=1&nofb=1&ipt=b65bddfcb8f8f15cbf716b553a39fe0ac26324bae3a1035548b333e6a4474912&ipo=images);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+.starIcon{
+    color: gold;
+    padding-bottom: 10px;
+}
+
+section{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.receptionBit{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.receptionBit2{
+    padding-top: 20px;
+    margin-bottom: 1cm;
+}
+
+.receptionBit3{
+    margin-bottom: 0.2cm;
+}
+
+.review{
+    margin-bottom: 2cm;
+}
+
+.smallreviews{
+    padding-top: 1cm;
+}
