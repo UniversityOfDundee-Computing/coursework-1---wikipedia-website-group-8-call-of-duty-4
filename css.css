@@ -69,3 +69,50 @@ a{
     text-decoration: none;
 } 
 
+/* Gameplay */
+.cf1 {
+    padding: 0;
+    margin: 0;
+}
+
+.gameplay-main {
+    margin: 0;
+    padding: 0;
+    position: relative;
+} 
+
+
+.gameplay-main img {
+   display: block;
+   max-width:100%;
+   padding: 0;
+   margin: 0;
+}
+
+.gameplay-main .overlay {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    width:100%;
+    height:100;
+    font-size: xx-large;
+    color:white;
+}
+
+.carousel-slides {
+    margin: 0;
+    padding: 0;
+}
+
+.gameplay-cards .card-title {
+    font-family: var(--headerFont);
+}
+
+.gameplay-cards {
+    background-color: #f6fcf4;
+}
+
+.gameplay-header {
+    font-family: var(--headerFont);
+    
+}
