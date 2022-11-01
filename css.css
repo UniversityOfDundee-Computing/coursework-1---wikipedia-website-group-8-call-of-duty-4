@@ -24,6 +24,10 @@
     --black: #000100;
 }
 
+body, html {
+    height: 100%;
+}
+
 body {
     background-color: var(--laurelGreen);
     color: var(--black);
@@ -33,13 +37,6 @@ body {
 nav, .offcanvas {
     background-color: var(--darkOlivGreen);
     font-family: var(--headerFont);
-}
-
-#home {
-    background-image: url('/imgs/81KbazjNmxL._AC_SL1500_.jpg');
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: 100%;
 }
 
 .main {
