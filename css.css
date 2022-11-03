@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
-@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500;700&family=Inconsolata:wght@300;400;500&family=PT+Mono&display=swap');
 
 
@@ -84,4 +83,19 @@ a:hover {
     padding-left: 35px;
     padding-right: 25px;
     padding-bottom: 25px;
+}
+
+.homeButtons{
+    padding-top: 10cm;
+}
+
+.homeImg{
+    background-image: url(https://raw.githubusercontent.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-8-call-of-duty-4/main/imgs/HomePageImg.jpg);
+    background-size: 100% 100% ;
+    margin-top: 0.6cm;
+}
+
+p.content{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
 }
