@@ -116,3 +116,21 @@ a{
     font-family: var(--headerFont);
     
 }
+
+.gameplay-cards{
+
+    transition: all 0.2s ease;
+    cursor: pointer;
+    
+
+  }
+    
+
+
+.gameplay-cards:hover{
+
+    box-shadow: 3px 3px 3px 1px #e9ecef;
+    transform: scale(1.02);
+}
+
+/* /Gameplay */
