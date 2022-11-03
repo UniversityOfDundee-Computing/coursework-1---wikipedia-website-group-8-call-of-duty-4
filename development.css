@@ -1,0 +1,62 @@
+.topper{
+    background-image: url('imgs/devTop.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    height: 950px;
+}
+
+.pic2{
+    background-image: url(https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/home/reveal/new-era/new_era-features.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    height: 500px;
+}
+
+.pic3{
+    background-image: url(https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/callofduty/feature/MW-PROGRESSION-TOUT.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    height: 500px;
+}
+
+.pic4{
+    background-image: url(https://cdn.playforum.net/news/photo/202203/201450_14345_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    height: 500px;
+}
+
+.intro1{
+    padding-top: 130px;
+    font-size: large;
+}
+.intro2{
+    padding-top: 70px;
+    font-size: large;
+}
+
+.devHead {
+    font-size: 1000px;
+}
+
+section{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+    color:rgb(254, 247, 237);
+}
+
+.needsBorder{
+    padding-right: 20px;
+    border-right: 1px solid #ccc;
+}
